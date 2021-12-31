@@ -1,5 +1,5 @@
 const { Client, Message, MessageEmbed } = require('discord.js');
-const config = require('/Users/Tobias/Desktop/Discord-Bot/data.json')
+const config = require('/Discord-Bot/data.json')
 
 module.exports = {
     name: 'set-suggest',
